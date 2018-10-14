@@ -1,0 +1,1 @@
+extern void nothing(int a);
