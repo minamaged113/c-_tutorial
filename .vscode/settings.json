@@ -3,5 +3,8 @@
         "ostream": "cpp",
         "limits": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "liveshare.joinDebugSessionOption": "Manual",
+    "liveshare.autoShareTerminals": false,
+    "liveshare.connectionMode": "relay"
 }
